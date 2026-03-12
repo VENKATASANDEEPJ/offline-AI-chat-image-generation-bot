@@ -2,3 +2,7 @@ venv/
 __pycache__/
 *.png
 *.pyc
+*.safetensors
+venv/
+__pycache__/
+*.png
